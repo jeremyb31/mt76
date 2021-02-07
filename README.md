@@ -1,3 +1,5 @@
+This is no longer needed as the fix was released in Ubuntu kernel 5.4.0-65
+
 #mt76
 
 cd mt76
